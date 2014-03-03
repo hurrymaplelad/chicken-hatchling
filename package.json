@@ -1,6 +1,6 @@
 {
   "name": "chicken-hatchling",
-  "version": "0.0.0-chicken",
+  "version": "0.0.1-chicken",
   "description": "console.log(&#x27;Chicken chicken chicken: chicken chicken&#x27;)",
   "author": "Adam Hull <adam@hmlad.com>",
   "contributors": [
