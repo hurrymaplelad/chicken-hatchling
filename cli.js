@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-var hatch = require('./hatchling');
+var hatch = require('./chicken-hatchling');
 
 hatch(1500, function() {});

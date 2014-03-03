@@ -1,18 +1,18 @@
 {
-  "name": "hatchling",
+  "name": "chicken-hatchling",
   "version": "0.0.0-chicken",
   "description": "console.log(&#x27;Chicken chicken chicken: chicken chicken&#x27;)",
   "author": "Adam Hull <adam@hmlad.com>",
   "contributors": [
     "Adam Hull <adam@hmlad.com>"
   ],
-  "main": "hatchling",
+  "main": "chicken-hatchling",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hurrymaplelad/hatchling.git"
+    "url": "git://github.com/hurrymaplelad/chicken-hatchling.git"
   },
-  "homepage": "https://github.com/hurrymaplelad/hatchling",
-  "bugs": "https://github.com/hurrymaplelad/hatchling/issues",
+  "homepage": "https://github.com/hurrymaplelad/chicken-hatchling",
+  "bugs": "https://github.com/hurrymaplelad/chicken-hatchling/issues",
   "dependencies": {},
   "devDependencies": {
     "coffee-script": ">=1.7.x",
