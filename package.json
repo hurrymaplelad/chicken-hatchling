@@ -1,6 +1,6 @@
 {
   "name": "hatchling",
-  "version": "0.0.0",
+  "version": "0.0.0-chicken",
   "description": "console.log(&#x27;Chicken chicken chicken: chicken chicken&#x27;)",
   "author": "Adam Hull <adam@hmlad.com>",
   "contributors": [
@@ -13,8 +13,7 @@
   },
   "homepage": "https://github.com/hurrymaplelad/hatchling",
   "bugs": "https://github.com/hurrymaplelad/hatchling/issues",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "coffee-script": ">=1.7.x",
     "mocha": "~1.x.x"
