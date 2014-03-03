@@ -6,7 +6,7 @@
   "contributors": [
     "Adam Hull <adam@hmlad.com>"
   ],
-  "main": "chicken-hatchling",
+  "main": "chicken_hatchling",
   "repository": {
     "type": "git",
     "url": "git://github.com/hurrymaplelad/chicken-hatchling.git"
